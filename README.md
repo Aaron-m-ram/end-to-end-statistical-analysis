@@ -49,6 +49,6 @@ After cleaning our dataset we have about 13650 rows & 5 columns. <br><br>
 * Choosing the appropriate model or visualization<br>
 * Identifying meaningful patterns in the data<br><br>
 ### License<br>
-* This project is licensed under the [Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/1.0/).<br><br>
+This project is licensed under the [Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/1.0/).<br><br>
 ### Acknowledgments<br>
 We would like to thank our professors and our team member for technical assistance during the project.
