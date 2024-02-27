@@ -2,7 +2,7 @@
 ## Analyzing Heart Disease Mortality Rates Among US Adults 35yrs+:<br><br>
 **Exploring Gender Disparities, Geographic Correlations, Racial Influences, 
 and Environmental Factors.**<br>
-<br>
+<br>The CDC's analysis reveals heart disease as the leading cause of mortality in the U.S., accounting for one-fifth of all deaths in 2021, surpassing other causes like cancer and COVID-19. The comprehensive definition of heart disease encompasses various cardiovascular conditions including acute myocardial infarction, coronary artery disease, heart failure, and strokes. A dataset from 2014, focusing on Americans aged 35 and older across U.S. counties, employs age-adjusted mortality rates to facilitate comparisons across populations with different age structures. By averaging data over three years, it aims to provide a stable view of heart disease mortality, incorporating demographic details and geographical coordinates for nuanced analysis. This study seeks to explore how demographic and geographical factors influence heart disease risk and outcomes, aiming to inform public health strategies for risk mitigation and improved preventive healthcare.<br><br>
 This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 -- Project Status: [Active]<br><br>
 ### To use, install, edit, and save this project, follow these steps:<br>
